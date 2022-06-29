@@ -1,0 +1,6 @@
+- Fotos de lo que usamos un cuadro con eso, cada componente.
+- Tinkercad 3D
+- Explicar el código
+- Diagrama de flujo 
+- Diagrama de Grantt
+<
